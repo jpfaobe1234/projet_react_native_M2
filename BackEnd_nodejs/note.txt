@@ -1,0 +1,2 @@
+- affichage salaire
+- salaire minimal et maximal ; montant total des salaire
